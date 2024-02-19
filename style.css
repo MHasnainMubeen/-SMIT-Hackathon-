@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'flame-bold';
+    src: url(assets/fonts/FlameBold.otf);
+}
+@font-face {
+    font-family: 'flame';
+    src: url(assets/fonts/FlameRegular.otf);
+}
+
+/* Nave bar start */
+.pink
+{
+    background-color: #F5EBDC;
+    padding: 20px 5px;
+    border-bottom: 1px solid #D0C8BB;
+}
+.hederbtns
+{
+    font-family: 'flame';
+background-color: #D62300;
+color: #fff;
+
+}
+.hederbtns-black
